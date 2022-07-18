@@ -1,0 +1,196 @@
+* {
+    margin: 0;
+}
+
+main {
+    background-color: #e4f1fe;
+    min-height: 100%;
+}
+
+html, body{
+    height:100vh;
+}
+
+body {
+    display:flex; 
+    flex-direction:column; 
+}
+
+.view-container {
+    display:flex; 
+    flex-direction:column; 
+    justify-content: center;
+    align-items: center;
+}
+
+#name-div { 
+    background-color: #787878;
+    padding: 50px;
+}
+
+#menu {
+    display: flex;
+}
+
+li {
+    list-style: none;
+    margin: 15px;
+}
+
+img { 
+    width: 100%;
+}
+
+#box-container {
+    width: 50%;
+}
+
+#box {
+    background-color: #B0B0B0;
+    margin: 25px;
+    padding: 50px;
+    width: 60%;
+    border-radius: 10px;
+    border: 1.5px;
+    border-style: solid;
+    border-color: black;
+}
+
+#form {
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+}
+
+#middle-container {
+    display: flex;
+}
+
+#submit-btn {
+    width: 50%;
+    border: 1.5px;
+    border-style: solid;
+    border-color: black;
+    background-color: red;
+    border-radius: 5px;
+}
+
+.form-element-container {
+    margin: 10px;
+}
+
+#submit-btn-container {
+    display: flex;
+    justify-content: right;
+}
+
+.input-text {
+    float:right;
+}
+
+#footer {
+    background-color: #34495e;
+    color: #ffffff;
+    margin-top: auto;
+}
+
+.footer-link {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+}
+
+#signup-form {
+    width: 50%;
+    color: #ffffff;
+    background-color: #22313f;
+}
+
+#login-form {
+    width: 40%;
+    color: #ffffff;
+    background-color: #22313f;
+}
+
+.home-paragraph {
+    width: 80%
+}
+
+nav {
+    width: 80%;
+}
+
+.contact-header{
+    width: 70%;
+}
+
+.contact-text {
+    width: 70%;
+}
+
+.header-text {
+    color: #22313f;
+}
+
+.paragraph-text {
+    color: #34495e;
+}
+
+.hidden {
+    display: none
+}
+
+.hello-message {
+    font-size: 24px;
+}
+
+#logout {
+    cursor: pointer;
+}
+
+#logout-btn {
+    color: gray;
+}
+
+#logout-btn:hover {
+    color: black;
+}
+
+.generic-container {
+    height: 100%;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 80px;
+}
+
+.top-paragraph {
+    font-size: 18px;
+}
+
+.bottom-paragraph {
+    font-size: 20px;
+}
+
+.top-container {
+    height: 30%;
+    min-height: 30%;
+    display: flex;
+    flex-direction: column;
+}
+
+.bottom-container {
+    height: 70%;
+    min-height: 70%;
+}
+
+#upload-form {
+    width: 40%;
+    color: #ffffff;
+    background-color: #22313f;
+}
+
+.wrapper {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
