@@ -13,19 +13,17 @@ A simple but efficient website to store your documents.
 
 ## Requirements covered
 
-- **[Login]**
-- **[Logout]**
-- **[Sign-up]**
-- **[Document upload]**
-- **[Document list]**
-- **[Document deletion]**
-- **[Document download]**
-- **[Security threat management]**
-- **[User management]**
-- **[User based document access management]**
-- **[Document viewer]**
-- **[WebReinvent]**
-- **[Lendio]**
+- **Login**
+- **Logout**
+- **Sign-up**
+- **Document upload**
+- **Document list**
+- **Document deletion**
+- **Document download**
+- **Security threat management**
+- **User management**
+- **User based document access management**
+- **Document viewer**
 
 ## Functionality
 
