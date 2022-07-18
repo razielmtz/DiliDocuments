@@ -1,12 +1,12 @@
 <x-template>
     <div class="body container-fluid p-5">
         <div class="container-fluid p-5">
-            <div class="container contact-header">
+            <div class="container sign-up-header">
                 <h1 class="header-text">
                     Sign up
                 </h1>
             </div>
-            <div class="container contact-text">
+            <div class="container sign-up-text top-paragraph">
                 <p>
                     Please, fill all the fields to create an account
                 </p>

@@ -6,7 +6,7 @@
                     Log in
                 </h1>
             </div>
-            <div class="container contact-text">
+            <div class="container contact-text top-paragraph">
                 <p>
                     Please, fill all the fields to log in
                 </p>

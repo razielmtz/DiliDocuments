@@ -120,11 +120,19 @@ nav {
 }
 
 .contact-header{
-    width: 70%;
+    width: 40%;
 }
 
 .contact-text {
-    width: 70%;
+    width: 40%;
+}
+
+.sign-up-header{
+    width: 50%;
+}
+
+.sign-up-text {
+    width: 50%;
 }
 
 .header-text {
@@ -164,11 +172,11 @@ nav {
 }
 
 .top-paragraph {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .bottom-paragraph {
-    font-size: 20px;
+    font-size: 22px;
 }
 
 .top-container {
