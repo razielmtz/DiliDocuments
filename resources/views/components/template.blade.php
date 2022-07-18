@@ -64,7 +64,7 @@
                 <div class="col d-flex justify-content-start">
                     <p class="pl-5">
                         <b>Links</b><br>
-                        <a href="github.com/razielmtz" class="footer-link">Github <i class="fa-brands fa-github"></i></a><br>
+                        <a href="https://github.com/razielmtz" class="footer-link">Github <i class="fa-brands fa-github"></i></a><br>
                         <a href="https://mx.linkedin.com/in/raziel-nicol%C3%A1s-mart%C3%ADnez-castillo-83b32b176" class="footer-link">LinkedIn <i class="fa-brands fa-linkedin"></i></a><br>
                     </p>
                 </div>
